@@ -24,7 +24,7 @@
 - This means you can take your project from experimentation to real-world use. 
 
 **Example: Analyzing Customer Reviews**
-Imagine you run an e-commerce store and want to analyze customer reviews to understand what people like and dislike about your products. 
+- An e-commerce store wants to analyze customer reviews to understand what people like and dislike about your products. 
 1. **Choose a Model:** You could choose a sentiment analysis model from Together.ai's library, like a pre-trained LLaMA model.
 2. **Upload Data:** You upload your customer reviews to Together.ai's platform.
 3. **Inference:** You run the model on your data. Together.ai would analyze each review and determine if it's positive, negative, or neutral. 
