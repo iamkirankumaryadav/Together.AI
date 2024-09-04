@@ -1,7 +1,7 @@
-# **Together.AI**
+# [**together.AI**](https://www.together.ai/)
 
 - A platform focused on making large, powerful AI models (like LLaMA) more accessible and easier to use.
-- Especially for those working in the field of Generative AI (GenAI), R&D, business to leverage it capabilities.
+- Especially for those working in the field of Generative AI (GenAI), R&D, and business to leverage its capabilities.
 - They provide the infrastructure, tools, and models to make GenAI more accessible.
 - Overall, Together.ai helps bridge the gap between powerful AI models and practical applications.
 
